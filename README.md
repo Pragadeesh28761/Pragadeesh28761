@@ -14,11 +14,11 @@
 
 <br/><br/>
 
-<a href="https://github.com/Pragadeesh5">
-  <img src="https://komarev.com/ghpvc/?username=Pragadeesh5&label=PROFILE%20VIEWS&color=6A0DAD&style=for-the-badge" alt="profile views"/>
+<a href="https://github.com/Pragadeesh28761">
+  <img src="https://komarev.com/ghpvc/?username=Pragadeesh28761&label=PROFILE%20VIEWS&color=6A0DAD&style=for-the-badge" alt="profile views"/>
 </a>
-<img src="https://img.shields.io/github/followers/Pragadeesh5?label=FOLLOWERS&style=for-the-badge&color=4B0082&labelColor=1a1a2e" alt="followers"/>
-<img src="https://img.shields.io/github/stars/Pragadeesh5?affiliations=OWNER&label=STARS&style=for-the-badge&color=483D8B&labelColor=1a1a2e" alt="stars"/>
+<img src="https://img.shields.io/github/followers/Pragadeesh28761?label=FOLLOWERS&style=for-the-badge&color=4B0082&labelColor=1a1a2e" alt="followers"/>
+<img src="https://img.shields.io/github/stars/Pragadeesh28761?affiliations=OWNER&label=STARS&style=for-the-badge&color=483D8B&labelColor=1a1a2e" alt="stars"/>
 
 <br/>
 
@@ -152,7 +152,7 @@ Authentication and role-based authorization at the API layer, server-side input 
 Stateless REST endpoints designed for horizontal scaling, with the data layer normalized to support growing job and applicant volume without redesign.
 
 **Repository**
-[View Repository](https://github.com/Pragadeesh5?tab=repositories&q=job-portal)
+[View Repository](https://github.com/Pragadeesh28761?tab=repositories&q=job-portal)
 
 **Future Enhancements**
 Email/notification service integration, resume parsing, and analytics for recruiter hiring pipelines.
@@ -185,7 +185,7 @@ Client-side input validation with sanitized data handling on form submissions to
 Modular component structure that allows the catalog and cart logic to be extended or connected to a backend API without restructuring the UI.
 
 **Repository**
-[View Repository](https://github.com/Pragadeesh5?tab=repositories&q=ecommerce)
+[View Repository](https://github.com/Pragadeesh28761?tab=repositories&q=ecommerce)
 
 **Future Enhancements**
 Payment gateway integration, backend order persistence with Spring Boot, and user account management.
@@ -217,7 +217,7 @@ Designed with a security-first mindset — sanitized inputs, restricted data exp
 Rule-based detection engine structured to accept additional detection modules without changes to the core alerting pipeline.
 
 **Repository**
-[View Repository](https://github.com/Pragadeesh5?tab=repositories&q=cyber-alert-buddy)
+[View Repository](https://github.com/Pragadeesh28761?tab=repositories&q=cyber-alert-buddy)
 
 **Future Enhancements**
 Integration with live threat-intelligence feeds and machine-learning-based anomaly detection.
@@ -249,7 +249,7 @@ Controlled data handling between sensor and processing layers to maintain readin
 Sensor abstraction layer designed so additional biometric sensors can be added without reworking the core processing pipeline.
 
 **Repository**
-[View Repository](https://github.com/Pragadeesh5?tab=repositories&q=smart-iot-spirometer)
+[View Repository](https://github.com/Pragadeesh28761?tab=repositories&q=smart-iot-spirometer)
 
 **Future Enhancements**
 Cloud data logging, historical trend analysis, and a companion mobile dashboard.
@@ -281,7 +281,7 @@ Fail-safe thresholds to prevent over-watering in the event of sensor drift or mi
 Modular sensor-actuator design that supports scaling to multiple plant zones with independent thresholds.
 
 **Repository**
-[View Repository](https://github.com/Pragadeesh5?tab=repositories&q=smart-plant-watering-system)
+[View Repository](https://github.com/Pragadeesh28761?tab=repositories&q=smart-plant-watering-system)
 
 **Future Enhancements**
 Remote monitoring dashboard and integration with weather-based watering schedules.
@@ -363,16 +363,16 @@ Gained hands-on exposure to applied technical development work, strengthening pr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pragadeesh5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8A2BE2&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragadeesh5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pragadeesh28761&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8A2BE2&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragadeesh28761&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragadeesh5&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A2BE2&ring=A78BFA&fire=8A2BE2&currStreakLabel=A78BFA" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragadeesh28761&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A2BE2&ring=A78BFA&fire=8A2BE2&currStreakLabel=A78BFA" width="70%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragadeesh5&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8A2BE2&point=c9d1d9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragadeesh28761&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8A2BE2&point=c9d1d9" width="100%"/>
 
 </div>
 
@@ -384,7 +384,7 @@ Gained hands-on exposure to applied technical development work, strengthening pr
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pragadeesh5&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pragadeesh28761&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
 
 </div>
 
@@ -396,11 +396,11 @@ Gained hands-on exposure to applied technical development work, strengthening pr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pragadeesh5/Pragadeesh5/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Pragadeesh28761/Pragadeesh28761/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-> Generated via the [platane/snk](https://github.com/Platane/snk) GitHub Action — set up the workflow once in a repository named `Pragadeesh5/Pragadeesh5` to auto-generate this animation.
+> Generated via the [platane/snk](https://github.com/Platane/snk) GitHub Action — set up the workflow once in a repository named `Pragadeesh28761/Pragadeesh28761` to auto-generate this animation.
 
 <br/>
 
@@ -436,7 +436,7 @@ current_focus:
 <a href="https://www.linkedin.com/in/pragadeesh-perambakam">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
-<a href="https://github.com/Pragadeesh5">
+<a href="https://github.com/Pragadeesh28761">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
 </a>
 <a href="mailto:pragadeesh5.dev@gmail.com">
