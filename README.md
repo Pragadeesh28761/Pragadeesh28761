@@ -384,7 +384,7 @@ Gained hands-on exposure to applied technical development work, strengthening pr
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pragadeesh28761&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=Pragadeesh28761&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
 
 </div>
 
